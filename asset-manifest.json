@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/edvora-react-app/static/css/main.2da1aa32.css",
-    "main.js": "/edvora-react-app/static/js/main.f197ebf4.js",
+    "main.css": "/edvora-react-app/static/css/main.961b8f7b.css",
+    "main.js": "/edvora-react-app/static/js/main.a2d29a26.js",
     "index.html": "/edvora-react-app/index.html",
-    "main.2da1aa32.css.map": "/edvora-react-app/static/css/main.2da1aa32.css.map",
-    "main.f197ebf4.js.map": "/edvora-react-app/static/js/main.f197ebf4.js.map"
+    "main.961b8f7b.css.map": "/edvora-react-app/static/css/main.961b8f7b.css.map",
+    "main.a2d29a26.js.map": "/edvora-react-app/static/js/main.a2d29a26.js.map"
   },
   "entrypoints": [
-    "static/css/main.2da1aa32.css",
-    "static/js/main.f197ebf4.js"
+    "static/css/main.961b8f7b.css",
+    "static/js/main.a2d29a26.js"
   ]
 }
