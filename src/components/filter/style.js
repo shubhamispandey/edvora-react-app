@@ -1,5 +1,4 @@
 import { makeStyles } from "@mui/styles";
-import { bgcolor, color } from "@mui/system";
 
 export default makeStyles((theme) => ({
   filterCard: {

@@ -5,7 +5,6 @@ import Sidebar from "./components/filter/sidebar";
 import Content from "./components/content/content";
 
 const App = () => {
-  const prefersDarkMode = "dark";
   const theme = React.useMemo(
     () =>
       createTheme({
@@ -13,7 +12,7 @@ const App = () => {
           mode: "dark",
         },
       }),
-    [prefersDarkMode]
+    []
   );
   const [products, setProducts] = useState([]);
   const [uniqueProducts, setUniqueProducts] = useState([]);

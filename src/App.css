@@ -74,6 +74,11 @@ body {
   display: inline-block;
   padding: 0 5px !important;
 }
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 @media (max-width: 1480px) {
   .content {
     padding: 0;
@@ -101,10 +106,21 @@ body {
 }
 
 @media (max-width: 550px) {
+  *::selection {
+    background: rgba(255, 255, 255, 0.233);
+  }
   .container {
     padding: 0;
   }
   .makeStyles-filterCard-1.makeStyles-filterCard-1 {
     border-radius: 0 !important;
+  }
+  .rec.rec-arrow {
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+  }
+  .rec.rec-arrow-left {
+    right: 50px;
   }
 }

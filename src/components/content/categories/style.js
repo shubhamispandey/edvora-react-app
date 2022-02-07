@@ -33,7 +33,7 @@ export default makeStyles((theme) => ({
     display: "flex",
     justifyContent: "space-between",
   },
-  carouselWrapper: {},
+  carouselWrapper: { position: "relative", paddingBottom: "30px" },
   carousel: {
     /* backgroundColor: "#121212",
     borderRadius: "20px",
