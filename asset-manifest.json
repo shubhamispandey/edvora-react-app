@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edvora-react-app/static/css/main.2da1aa32.css",
+    "main.js": "/edvora-react-app/static/js/main.f197ebf4.js",
+    "index.html": "/edvora-react-app/index.html",
+    "main.2da1aa32.css.map": "/edvora-react-app/static/css/main.2da1aa32.css.map",
+    "main.f197ebf4.js.map": "/edvora-react-app/static/js/main.f197ebf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da1aa32.css",
+    "static/js/main.f197ebf4.js"
+  ]
+}
